@@ -1,0 +1,9 @@
+# GEOG392-JKing
+Jerad's private repo for the GEOG 392 class. 
+|Labs        |
+|:----------:|
+|[Lab6](lab6/readme.md)|
+This code contains a toolbox for ArcPro. 
+The tool makes brand new project that creates an orange 5 class based symbology for a feature of your choosing
+Additonally, the run time is artifically inflated so that the tool can talk to you.
+Not written in Fortalinian.  
